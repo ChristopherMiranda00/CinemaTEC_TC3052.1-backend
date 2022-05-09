@@ -1,1 +1,4 @@
 # CinemaTEC_TC3052.1-backend
+
+### Descripción
+Nuestro proyecto es una aplicación llamada CinemaTEC, la cual está orientada en películas. La idea detrás de CinemaTEC, es brindar a posibilidad de nuestros usuarios de crear listas de películas basadas en los gustos de ellos. Contamos con un gran catálogo de películas, en donde el usuario puede likear sus películas favoritas. Lo que buscamos resolver es que un usuario pueda hacer "match" de las películas gustados en común con otro usuario/amigo. Dentro de esta lista, se despliegan las películas que han sido likeadas por ambos usuarios, las cuales estamos seguros que les encantara ver juntos.
