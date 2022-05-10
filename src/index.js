@@ -33,7 +33,7 @@ mongoose.connection.on('error', (err) => {
 }); 
 
 app.get('/', (req, res) => {
-    res.send(`Welcome to the Flixer API!!!`);
+    res.send(`Bienvenid@ a la API de CinemaTEC!`);
 });
 
 const PORT = process.env.PORT || 8080;
