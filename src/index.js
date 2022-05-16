@@ -20,7 +20,7 @@ app.use(movieRoutes);
 app.use(userRoutes);
 
 // MongoDB
-const mongoUri = 'mongodb+srv://admin:cinema@cinematec.4x0pf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+const mongoUri = 'mongodb+srv://admin:cinema@cinematec.4x0pf.mongodb.net/Movies?retryWrites=true&w=majority'
 mongoose.connect(mongoUri, {
     useNewUrlParser: true,
     useCreateIndex: true
