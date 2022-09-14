@@ -24,6 +24,11 @@ const userSchema = new mongoose.Schema({
         type: Array,
         default: [],
         required: true
+    },
+    purchasedMovies: {
+        type: Array,
+        default: [],
+        required: true
     }
 });
 
